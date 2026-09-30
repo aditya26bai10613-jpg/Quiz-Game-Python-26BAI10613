@@ -1,2 +1,0 @@
-# No external runtime packages are required.
-# Optional for testing: pytest
