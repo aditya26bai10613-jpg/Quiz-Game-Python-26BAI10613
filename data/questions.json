@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which planet is called the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the chemical formula of water?",
+        "options": [
+            "CO2",
+            "H2O",
+            "O2",
+            "NaCl"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Who is commonly credited with inventing the telephone?",
+        "options": [
+            "Edison",
+            "Tesla",
+            "Bell",
+            "Newton"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which is the largest ocean in the world?",
+        "options": [
+            "Atlantic",
+            "Indian",
+            "Arctic",
+            "Pacific"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": [
+            "Central Process Unit",
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Processor Unifier"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which gas do plants absorb from the air?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "How many bits are there in 1 byte?",
+        "options": [
+            "4",
+            "8",
+            "16",
+            "32"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pizza is traditionally associated with which country?",
+        "options": [
+            "France",
+            "USA",
+            "Italy",
+            "Spain"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the approximate speed of light in km/s?",
+        "options": [
+            "3,00,000",
+            "1,50,000",
+            "5,00,000",
+            "2,00,000"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which data structure follows FIFO?",
+        "options": [
+            "Stack",
+            "Queue",
+            "Tree",
+            "Graph"
+        ],
+        "answer": 2
+    }
+]
