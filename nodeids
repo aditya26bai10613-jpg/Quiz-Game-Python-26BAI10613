@@ -1,5 +1,0 @@
-[
-  "tests/test_quiz.py::test_option_validation",
-  "tests/test_quiz.py::test_positive_number",
-  "tests/test_quiz.py::test_result_percentage_and_grade"
-]
